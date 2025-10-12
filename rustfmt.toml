@@ -1,0 +1,3 @@
+imports_granularity = "module"
+fn_params_layout = "vertical"
+imports_layout = "vertical"
